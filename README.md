@@ -1,16 +1,20 @@
-# Title
+# Command Line Interface - Additional Practice
 
-## Learning Goals
+The command line is an essential programming tool - it is your
+direct line of communication with your computer. Understanding
+how to use the command line interface is a critical underlying
+skill that will assist you no matter what programming language
+you are working in.
 
--SWBAT 1
--SWBAT 2
+This sections contains additional lessons reviewing the CLI and
+related concepts, including:
 
-## Introduction
+* Basic commands and interaction
+* Navigating directories
+* Understanding directory structures
+* Running a file
 
-## SWBAT 1
+In addition, here are some additional resources related to booleans:
 
-## SWBAT 2
-
-## Conclusion
-
-## Resources
+* [What is CLI? W3 Schools](https://www.w3schools.com/whatis/whatis_cli.asp)
+* [Command Line Primer - Lifehacker](https://lifehacker.com/a-command-line-primer-for-beginners-5633909)
