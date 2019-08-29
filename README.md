@@ -6,7 +6,7 @@ how to use the command line interface is a critical underlying
 skill that will assist you no matter what programming language
 you are working in.
 
-This sections contains additional lessons reviewing the CLI and
+This section contains additional lessons reviewing the CLI and
 related concepts, including:
 
 * Basic commands and interaction
