@@ -1,4 +1,4 @@
-# Command Line Interface - Additional Practice
+# Command Line Interface
 
 The command line is an essential programming tool - it is your
 direct line of communication with your computer. Understanding
